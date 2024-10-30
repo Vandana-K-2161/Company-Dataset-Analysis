@@ -9,11 +9,14 @@ Each segment of the code aims to manipulate the dataset, perform analyses, and v
 - Data Cleaning
 - Data Transformation
 ## Graphical Representations
--Heatmap:
+Heatmap:
+
 A heatmap was generated using Seaborn to represent salary expenditures by team and position, allowing for quick visual identification of salary distributions.
--Scatterplot: 
+Scatterplot: 
+
 Scatterplot was generated using matplotlib to represent relationship between age and salary of the employees
--Bar Charts: 
+Bar Charts: 
+
 Used to analyse segregation by Positions
 ## Insights Gained
 The distribution of employees across each team is almost same but The majority of employees are concentrated in 'New Orleans Pelicans' and the percentage of distribution is: 4.148472.
