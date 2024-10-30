@@ -9,7 +9,7 @@ Each segment of the code aims to manipulate the dataset, perform analyses, and v
 - Data Cleaning
 - Data Transformation
 ## Graphical Representations
-Heatmap:
+### Heatmap:
 
 A heatmap was generated using Seaborn to represent salary expenditures by team and position, allowing for quick visual identification of salary distributions.
 
@@ -27,7 +27,8 @@ The predominant age group among employees is: 20-30.
 The team 'Los Angeles Lakers' has the highest salary expenditure in the position 'SF'.
 The correlation between age and salary is 0.21400, Employees who are between 25 and 35 have the highest salary.  
 
-##Technologies Used
+## Technologies Used
+
 Python: The primary programming language used for data analysis.
 Pandas: For data manipulation and analysis.
 Seaborn and Matplotlib: For visualization purposes.
