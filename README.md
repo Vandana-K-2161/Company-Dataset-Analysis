@@ -12,9 +12,11 @@ Each segment of the code aims to manipulate the dataset, perform analyses, and v
 Heatmap:
 
 A heatmap was generated using Seaborn to represent salary expenditures by team and position, allowing for quick visual identification of salary distributions.
+
 Scatterplot: 
 
 Scatterplot was generated using matplotlib to represent relationship between age and salary of the employees
+
 Bar Charts: 
 
 Used to analyse segregation by Positions
